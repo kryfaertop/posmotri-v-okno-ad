@@ -299,3 +299,8 @@ video {
     object-fit: cover;
     object-position: center;
 }
+
+.result__video-container,
+.content__list-container {
+    position: relative;
+}
